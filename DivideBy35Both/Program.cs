@@ -30,7 +30,7 @@ namespace DivideBy35Both
                 {
                     Console.WriteLine(i);
                 }
-            }
+            }  
 
             Console.ReadLine();
         }
