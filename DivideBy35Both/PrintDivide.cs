@@ -10,7 +10,7 @@ namespace DivideBy35Both
     {
         public void Divideby3()
         {
-            Console.WriteLine("Buzz");
+            Console.WriteLine("Buzz");    
         }
 
         public void Divideby35()
